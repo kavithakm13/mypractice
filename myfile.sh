@@ -1,1 +1,2 @@
-"hi am kavitha"
+#!/bin/bash
+echo "hi am kavitha"

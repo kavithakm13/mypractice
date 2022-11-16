@@ -41,5 +41,12 @@ pipeline{
 	'''
 	}
 	}
+	stage('Tesing'){
+	steps{
+
+	echo '"Process Command Tesing"'
+
+	}
+	}
 	}
 }
